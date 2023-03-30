@@ -1,1 +1,1 @@
-# tensorflow_cnn_cv
+# Convolutional Neural Networks and Computer Vision with TensorFlow
